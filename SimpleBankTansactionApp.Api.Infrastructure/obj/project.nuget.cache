@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "c8yNrx3INgXOIcZg8Y42DQ8GAG6U1j0qaODjKc9+fQQehxT3t3bx1phv9bj33fGvLw50OwVF51KzhVyUGDXLSA==",
+  "dgSpecHash": "HhwUim4mNHlmYqpjp6NoZZ9ZTT9OO0O7NroHWMyL+/K2JXZnMPymGdt1y+EmTJh5Xi6oJhStEEvTkfgvx9kf0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\gijsd\\RiderProjects\\SimpleBankTransactionApp\\SimpleBankTansactionApp.Api.Infrastructure\\SimpleBankTansactionApp.Api.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.13\\microsoft.entityframeworkcore.analyzers.7.0.13.nupkg.sha512",
+    "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.13\\microsoft.entityframeworkcore.relational.7.0.13.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\gijsd\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",

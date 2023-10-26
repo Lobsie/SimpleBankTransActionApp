@@ -14,5 +14,18 @@ namespace SimpleBankTansactionApp.Infrastructure.Data
         public ApplicationDbContext()
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<BankTransaction>()
+                .HasOne(bt => bt.IncomingBankAccount)
+                .WithMany(ba => ba.IncomingBankTransactions)
+                .HasForeignKey(bt => bt.IncomingBankAccountId);
+            modelBuilder.Entity<BankTransaction>()
+                .HasOne(bt => bt.OutgoingBankAccount)
+                .WithMany(ba => ba.OutgoingBankTransactions)
+                .HasForeignKey(bt => bt.OutgoingBankAccountId);
+
+        }
     }
 }
