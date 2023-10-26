@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBankTransactionApp.Api", "SimpleBankTransactionApp.Api\SimpleBankTransactionApp.Api.csproj", "{A8A663E8-30E9-417D-8244-1D5F00ADA00E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{C5E49988-CFEE-448C-9B42-230620178F42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{2CD96700-3DBA-4AB8-A417-7B2EE16D8DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBankTransactionApp.Api.Core", "SimpleBankTransactionApp.Api.Core\SimpleBankTransactionApp.Api.Core.csproj", "{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBankTansactionApp.Api.Infrastructure", "SimpleBankTansactionApp.Api.Infrastructure\SimpleBankTansactionApp.Api.Infrastructure.csproj", "{DF4FE642-527A-4DAA-9026-D77368DE0468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A663E8-30E9-417D-8244-1D5F00ADA00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A663E8-30E9-417D-8244-1D5F00ADA00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A663E8-30E9-417D-8244-1D5F00ADA00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A663E8-30E9-417D-8244-1D5F00ADA00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4FE642-527A-4DAA-9026-D77368DE0468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4FE642-527A-4DAA-9026-D77368DE0468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4FE642-527A-4DAA-9026-D77368DE0468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4FE642-527A-4DAA-9026-D77368DE0468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8A663E8-30E9-417D-8244-1D5F00ADA00E} = {C5E49988-CFEE-448C-9B42-230620178F42}
+		{D5957E4E-BB79-4A66-ACBB-CF6C49AB4613} = {C5E49988-CFEE-448C-9B42-230620178F42}
+		{DF4FE642-527A-4DAA-9026-D77368DE0468} = {C5E49988-CFEE-448C-9B42-230620178F42}
+	EndGlobalSection
+EndGlobal

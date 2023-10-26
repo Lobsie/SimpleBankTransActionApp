@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EMhpWIXsIUEpzESHSkQJ+CzVQpSb7efXF+C7Yzm0g4o=",
+  "Source": "SimpleBankTransactionApp.Api",
+  "BasePath": "_content/SimpleBankTransactionApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

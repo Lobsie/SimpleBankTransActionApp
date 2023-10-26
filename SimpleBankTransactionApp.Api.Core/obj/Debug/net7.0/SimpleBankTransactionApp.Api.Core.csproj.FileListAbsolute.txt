@@ -1,0 +1,11 @@
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\bin\Debug\net7.0\SimpleBankTransactionApp.Api.Core.deps.json
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\bin\Debug\net7.0\SimpleBankTransactionApp.Api.Core.dll
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\bin\Debug\net7.0\SimpleBankTransactionApp.Api.Core.pdb
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.AssemblyInfoInputs.cache
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.AssemblyInfo.cs
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.dll
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\refint\SimpleBankTransactionApp.Api.Core.dll
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\SimpleBankTransactionApp.Api.Core.pdb
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTransactionApp.Api.Core\obj\Debug\net7.0\ref\SimpleBankTransactionApp.Api.Core.dll
