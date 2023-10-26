@@ -11,7 +11,7 @@ namespace SimpleBankTansactionApp.Infrastructure.Data
         public DbSet<BankAccount> BankAccounts { get; set; }
         public DbSet<BankTransaction> BankTransactions { get; set; }
 
-        public ApplicationDbContext()
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
 
@@ -20,12 +20,20 @@ namespace SimpleBankTansactionApp.Infrastructure.Data
             modelBuilder.Entity<BankTransaction>()
                 .HasOne(bt => bt.IncomingBankAccount)
                 .WithMany(ba => ba.IncomingBankTransactions)
-                .HasForeignKey(bt => bt.IncomingBankAccountId);
+                .HasForeignKey(bt => bt.IncomingBankAccountId)
+                .OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<BankTransaction>()
                 .HasOne(bt => bt.OutgoingBankAccount)
                 .WithMany(ba => ba.OutgoingBankTransactions)
-                .HasForeignKey(bt => bt.OutgoingBankAccountId);
+                .HasForeignKey(bt => bt.OutgoingBankAccountId)
+                .OnDelete(DeleteBehavior.NoAction);
+            modelBuilder.Entity<BankTransaction>()
+                .Property(bt => bt.Amount)
+                .HasPrecision(18, 2);
 
+            modelBuilder.Entity<BankAccount>()
+                .Property(ba => ba.Balance)
+                .HasPrecision(18, 2);
         }
     }
 }

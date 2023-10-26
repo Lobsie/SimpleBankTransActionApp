@@ -9,3 +9,9 @@ C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Ap
 C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\refint\SimpleBankTansactionApp.Api.Infrastructure.dll
 C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\SimpleBankTansactionApp.Api.Infrastructure.pdb
 C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\ref\SimpleBankTansactionApp.Api.Infrastructure.dll
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\bin\Debug\net7.0\SimpleBankTransactionApp.Api.Core.dll
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\bin\Debug\net7.0\SimpleBankTransactionApp.Api.Core.pdb
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\SimpleBankTansactionApp.Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\SimpleBankTansactionApp.Api.Infrastructure.csproj.CopyComplete
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\bin\Debug\net7.0\SimpleBankTansactionApp.Api.Infrastructure.runtimeconfig.json
+C:\Users\gijsd\RiderProjects\SimpleBankTransactionApp\SimpleBankTansactionApp.Api.Infrastructure\obj\Debug\net7.0\SimpleBankTansactionApp.Api.Infrastructure.genruntimeconfig.cache
